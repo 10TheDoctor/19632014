@@ -1,0 +1,12 @@
+img {
+	width: 500px;
+	box-shadow: 7px 7px 10px darkblue;
+}
+img:hover {
+	width: 500px;
+	box-shadow: 7px 7px 10px lightgray;
+}
+
+body {
+	background-color: #003B6F;
+}
